@@ -16,17 +16,19 @@ Python을 활용한 자동화 스크립트와 Verilog/SystemVerilog 기반의 �
 ---
 
 ### 📚 **학습 및 프로젝트**
-- ✅ VerilogHDL 및 SystemVerilog 기반 설계 및 검증
-- ✅ **[Project] CPU Design and Verification**
-- ✅ **[Project] SoC AXI Peripheral Design with UVM**
-- ✅ Cortex-M ARM Architecture 및 System Programming
-- ✅ Python 자동화 스크립트 개발  
-- ✅ UVM (Universal Verification Methodology)
+- ✅ 반도체 설계 및 검증을 위한 Python 자동화 스크립트
+- ✅ VerilogHDL
+- ✅ [Project] CPU Design and Verification
+- ✅ [Project] SoC AXI Peripheral Design with UVM for Verification
+- ✅ System Programming
+- ✅ Cortex-M ARM Architecture
+- ✅ SystemVerilog for Verification
+- ✅ UVM for Verification
 
 ---
 
 ### 📫 **E-mail**
-[![Email](https://img.shields.io/badge/Naver_Mail-03C75A?logo=naver&logoColor=white)](mailto:ujinmo0342@naver.com).com)
+[![Email](https://img.shields.io/badge/Naver_Mail-03C75A?logo=naver&logoColor=white)](mailto:ujinmo0342@naver.com)
 
 ---
 
