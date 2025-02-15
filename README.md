@@ -25,17 +25,9 @@ Python을 활용한 자동화 스크립트와 Verilog/SystemVerilog 기반의 �
 
 ---
 
-### 📊 **GitHub 통계**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
-
----
-
 ### 📫 **연락 및 소셜 미디어**
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujinmo0342@naver.com)
 
 ---
 
-🔥 **최종 목표**: 반도체 설계 및 검증을 자동화하고, 더 효율적인 Verification 환경을 구축하는 것!  
+🔥 **최종 목표**: 학부 시절 축적한 이론과 경험을 바탕으로 ‘하만 세미콘 아카데미 반도체 설계/검증’ 과정을 통해 심화된 전문 지식을 습득하고, 실제 프로젝트를 성공적으로 수행하여 경력형 신입으로 빠르게 실무에 적응할 수 있는 인재가 되겠습니다.
