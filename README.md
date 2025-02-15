@@ -1,4 +1,4 @@
-## 🚀 반도체 설계 및 검증 개발자 | SoC Design & Verification
+## 🚀 반도체 설계 및 검증 엔지니어 | SoC Design & Verification
 
 안녕하세요!  
 반도체 설계 및 검증에 관심이 많으며, 현재 **HARMAN Semicon Academy**에서  
