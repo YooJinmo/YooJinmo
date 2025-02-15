@@ -25,8 +25,8 @@ Python을 활용한 자동화 스크립트와 Verilog/SystemVerilog 기반의 �
 
 ---
 
-### 📫 **연락 및 소셜 미디어**
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujinmo0342@naver.com)
+### 📫 **E-mail**
+[![Email](https://img.shields.io/badge/Naver_Mail-03C75A?logo=naver&logoColor=white)](mailto:ujinmo0342@naver.com).com)
 
 ---
 
