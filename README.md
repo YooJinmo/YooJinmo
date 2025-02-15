@@ -7,7 +7,7 @@ Python을 활용한 자동화 스크립트와 Verilog/SystemVerilog 기반의 �
 
 ---
 
-### 🛠️ **기술 스택**
+### 🛠️ **사용 언어**
 ![Verilog](https://img.shields.io/badge/-Verilog-000?&logo=verilog)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-000?&logo=systemverilog)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
